@@ -1,0 +1,8 @@
+
+{
+  "remoteTools": [
+    "brave-search_brave_web_search",
+    "memory_create_entities",
+    "rustdocs_query_rust_docs"
+  ]
+}
